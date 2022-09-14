@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://anildahiyaportfolio.netlify.app](https://anildahiyaportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [portfolio](https://anildahiyaportfolio.netlify.app)
 
 - 💬 Ask me about **html,react,javascript,css**
 
