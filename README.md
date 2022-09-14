@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://anildahiyaportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://anildahiyaportfolio.netlify.app)
 
 - 💬 Ask me about **html,react,javascript,css**
 
 - 📫 How to reach me **dahiya694@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1p1uuiNQ__D0Xjh4ifyEzT47CMoAFcKxq/view?usp=sharing](https://drive.google.com/file/d/1p1uuiNQ__D0Xjh4ifyEzT47CMoAFcKxq/view?usp=sharing)
+- 📄 Know about my experiences [Drive](https://drive.google.com/file/d/1p1uuiNQ__D0Xjh4ifyEzT47CMoAFcKxq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
