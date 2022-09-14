@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **html,react,javascript,css**
 
-- 📫 How to reach me [Email](dahiya694@gmail.com)
+- 📫 How to reach me **dahiya694@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1p1uuiNQ__D0Xjh4ifyEzT47CMoAFcKxq/view?usp=sharing](https://drive.google.com/file/d/1p1uuiNQ__D0Xjh4ifyEzT47CMoAFcKxq/view?usp=sharing)
 
